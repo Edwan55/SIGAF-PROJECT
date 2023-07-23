@@ -1,12 +1,38 @@
-# SIGAF-PROJECT
-Management System for the Phonoaudiology Assistance Process/ Sistema de Gestión para el Proceso de Asistencia Fonoaudiología 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-"SIGAF" is a system that has the purpose of facilitating the management and processing of data in the area of future medical assistance located at the Territorial Polytechnic University of Yaracuy Arístides Bastidas "UPTYAB", Venezuela, specifically PNFF (National Program for Training in Phonoaudiology), whose medical praxis is not being executed due to the fact that it is a project with preparation for its early inauguration and to be able to work with people in order to improve health by entering the auditory area , the vestibular system, orofacial motor skills, language, swallowing and voice. According to the preliminary results of this study, the conditions of the community foresee the loss of misplaced data or some other problem that may hinder the effective work of this community in its mission, coupled with this, it also generates the expense of expensive materials that may cause future damage to the environment, after all the physical materials thus contributing to environmental contamination.
+## Getting Started
 
-The "SIGAF" system presents a solution to the public care system that is in search of a physiological solution because, without this program, appointments would be physically scheduled, an archive would be kept with a large number of documents that could be stolen, damaged, modified or any other situation that could arise. Connecting with these realities we also have a solution to the physical exhaustion of doctors, writing and passing anamnesis, medical records written in handwritten adding the detailed personal information of the individual to be consulted , however we have the use of the papers that are used and some can be reused for this work of data collection, with the system in development space and expense of said materials are saved.
+First, run the development server:
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-"SIGAF", es un sistema que tiene el fin de facilitar la gestión y procesamiento de datos en el área de asistencia médica a futuro situada en la Universidad Politécnica Territorial de Yaracuy Arístides Bastidas "UPTYAB", en específico PNFF (Programa Nacioanal de Formación en Fonoaudiología), cuya praxis médica no están siendo ejecutadas debido ya que es un proyecto con preparación para su pronta inauguración y poder trabajar con las personas con el fin de mejorar la salud adentrándose al área auditiva, el sistema vestibular, la motricidad oro facial, el lenguaje, la deglución y la voz. De acuerdo con los resultados preliminares de este estudio, las condiciones de la comunidad prevén la pérdida de datos traspapelados o algún otro problema que pueda dificultar el trabajo eficaz de esta comunidad en su misión, aunado a esto genera también el gasto de materiales costosos que puedan ocasionar un daño futuro al ambiente, después de todos los materiales físicos contribuyendo de esta manera a la contaminación ambiental.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-El sistema "SIGAF" presenta una solución ante el sistema de atención al público que va en búsqueda de una solución fisiológica debido a que, sin este programa se agendaría físicamente las citas, se mantendría un archivero con gran cantidad de documentos que pudieran ser robados, dañados, modificados o cualquier otra situación que se pudiera presentar, conectando con estas realidades también tenemos una solución ante el desgaste físico de los doctores, redactando y pasando anamnesis, historias médicas escritas a manuscrito sumando la información detallada personal del individuo a consultar, sin embargo tenemos el uso de los papeles que se utilizan y algunos se pueden reutilizar para ésta labor de recolección de datos, con el sistema en desarrollo se ahorría espacio y gasto de dichos materiales.
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
